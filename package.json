@@ -1,0 +1,9 @@
+{
+  "name": "try-graphql",
+  "version": "0.0.1",
+  "description": "this is for learning purpose only",
+  "main": "index.js",
+  "repository": "https://github.com/anztrax/try-graphql.git",
+  "author": "andrew ananta <kuro.ketanitem@gmail.com>",
+  "license": "MIT"
+}
