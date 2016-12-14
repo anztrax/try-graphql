@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/anztrax/try-graphql.git",
   "author": "andrew ananta <kuro.ketanitem@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^1.14.0"
+  }
 }
